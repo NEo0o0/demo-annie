@@ -16,36 +16,30 @@
     color: #599098;}
 
  .font_menu:hover{
-        color: #2D3155;}
+  color: #2D3155;}
 
 
 .content-top{
-        padding-top: 6.5rem;
+  padding-top: 6.5rem;
 }
 
-.navbar, .navbar-brand {
-        transition: 800ms;
-      }
-      .tiny{
-        padding-left: 1rem;
-        padding-right: 1rem;
-      }
+.navbar,.navbar-brand {
+  transition: 800ms;
+}
+.tiny{
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
 
  
 
-      .tiny .img-navbar-brand {
-        
-        height:2.5rem;
-        
-      }
+.tiny .img-navbar-brand {
+  height:2.5rem;
+}
 
-      .tiny .navbar-item {    
-        font-size: 10px;
-        
-      }
 
-      .img-navbar-brand{
-        height: 3.5rem;
-      }
+.img-navbar-brand{
+  height: 3.5rem;
+}
 
       
