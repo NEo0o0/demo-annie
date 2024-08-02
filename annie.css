@@ -18,11 +18,8 @@
  .font_menu:hover{
         color: #2D3155;}
 
-.sticky {
-        position: fixed;
-        top: 0;
-        width: 100%;
-}.content-top{
+
+.content-top{
         padding-top: 6.5rem;
 }
 
